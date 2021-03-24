@@ -1,6 +1,6 @@
 # Algoritmos racistas: a hiper-ritualização da solidão da mulher negra em bancos de imagens digitais
 
-Bruno, Guilherme; Brasileiro,  Francisco; Simpson, Robert; Smith, Arfon. "Volunteers' Engagement in Human Computation for Astronomy Projects," in Computing in Science & Engineering, vol. 16, no. 6, pp. 52-59, Nov.-Dec. 2014. doi: [10.1109/MCSE.2014.4](https://doi.org/10.1109/MCSE.2014.4)
+Bruno, Guilherme; Brasileiro, Aluno de Lesandro Ponciano curso Sistemas da informação - Puc Minas Contagem, "Interação Humano-Computador", Março. 2021
 
 ## 1. Fichamento de Conteúdo
 
