@@ -24,7 +24,10 @@ darem a devida prioridade que o assunto necessita, sendo assim tendo sistemas j�
 dificuldade para ser combatida.
 
 ## 3. Fichamento de Citações
-* _"To take advantage of these human abilities, a new computing approach—called human computation—has emerged to let humans perform the tasks for which there's still no satisfactory solution via today's silicon-based computers"_
+* . "Sendo assim, não somente
+os bancos de imagens tradicionais oferecem uma classificação de relevância que deve ser
+questionada, como as próprias escolhas de composição destas imagens parecem recorrer
+ainda a processos de hiper-ritualização de gênero."(p.102)
 * _"Volunteer thinking projects are analogous to volunteer computing projects, such as SETI@home"_
 * _"Our results suggest that we can broadly divide participants into transient volunteers (those who execute tasks only one day and don't return) and regular volunteers (those who return at least one more day to execute more tasks after executing the first task in the project)."_
 * _"Given these intervals, we use the threshold-based methodology [11] to determine the sessions."_
