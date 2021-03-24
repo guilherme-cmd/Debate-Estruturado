@@ -9,8 +9,7 @@ ao se associar os mesmos com questões de maior dificuldade ou negatividade, com
 tendo que para que as de outras raças, orientação sexual ou até mesmo de padrão fisíco diferente são excluídas ou seja isoladas dos determinados resultados obtidos e que para as mesmas 
 surgirem é preciso de buscas especificas, outra forma que é exemplificada é na forma de discriminação com relação a tratar mulheres negras comumente associadas a solteirismo,agressividade e até
 tratando suas relações inter-pessoais como de maior dificuldade para existência, resultados de buscas não somente relacionadas com mulheres mas no geral como na pesquisa feita com homens,gerando assim
-resultados de que homens negros estão mais relacionados com a solidão ou marginalização, o que acontece de forma distinta dos homens brancos que possuim um caso mínimo de aparições
-solitárias ao se pesquisar por "family white"
+resultados de que homens negros estão mais relacionados com a solidão ou marginalização, o que acontece de forma distinta dos homens brancos que possuim um caso mínimo de aparições solitárias ao se pesquisar por "family white", as grandes empresas responsáveis por estes bancos de imagens ao serem questionadas dos resultados levantados na pesquisa, fizeram como forma de "resolução" uma inserção de busca mais eficaz com filtros diretos, como pessoas afro-descendentes, ou familia negra, porém nada foi feito relacionado a programação dos algoritmos que levam a tais resultados tão irregulares na questão de igualdade racial.
 
 ## 2. Fichamento Bibliográfico
 
@@ -24,13 +23,13 @@ darem a devida prioridade que o assunto necessita, sendo assim tendo sistemas j�
 dificuldade para ser combatida.
 
 ## 3. Fichamento de Citações
-* . "Sendo assim, não somente
+* "Sendo assim, não somente
 os bancos de imagens tradicionais oferecem uma classificação de relevância que deve ser
 questionada, como as próprias escolhas de composição destas imagens parecem recorrer
 ainda a processos de hiper-ritualização de gênero."(p.102)
-* _"Volunteer thinking projects are analogous to volunteer computing projects, such as SETI@home"_
-* _"Our results suggest that we can broadly divide participants into transient volunteers (those who execute tasks only one day and don't return) and regular volunteers (those who return at least one more day to execute more tasks after executing the first task in the project)."_
-* _"Given these intervals, we use the threshold-based methodology [11] to determine the sessions."_
-* _"There's a strong correlation between volunteers' frequency and their devoted time to the project"_
-* _"There's also a moderate correlation between daily productivity and session duration for regular volunteers"_
-* _"In the Milky Way Project, the main change from normal days to busy days is that the proportion of traffic from the UK increases from 16 to 34 percent, and the proportion of users that came to the project through the BBC's website (bbc.co.uk) increases from 3 to 24 percent."_
+* "O conceito de solidão da mulher negra é um desdobramento identificado na
+sociedade brasileira atual como resultado de um conjunto de elementos socialmente
+estruturados remanescentes do racismo moderno."(p.103)
+* "Em paralelo a esta representação social da sexualidade da mulher negra, está a imagem
+de associação da mulher negra ao estereótipo de instrumento servil e que persiste até os
+dias atuais."(p.104)
