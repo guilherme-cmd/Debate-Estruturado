@@ -1,4 +1,5 @@
-# Algoritmos racistas: a hiper-ritualização da solidão da mulher negra em bancos de imagens digitais
+# Exploring User Profiles Based on their Explainability
+Requirements in Interactive Systems
 
 Bruno, Guilherme; Brasileiro, Aluno de Lesandro Ponciano curso Sistemas da informação - Puc Minas Contagem, "Interação Humano-Computador", Março. 2021
 
