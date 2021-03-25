@@ -1,0 +1,34 @@
+# Algoritmos racistas: a hiper-ritualização da solidão da mulher negra em bancos de imagens digitais
+
+Bruno, Guilherme; Brasileiro, Aluno de Lesandro Ponciano curso Sistemas da informação - Puc Minas Contagem, "Interação Humano-Computador", Março. 2021
+
+## 1. Fichamento de Conteúdo
+
+Sobre as formas de inteligência artificial e sua relação com a discriminalização, é levantado assim informações concisas e aprofundadas a respeito das principais empresas responsáveis pelos dados de bancos de imagens disponíveis para comprovação desta teoria é 
+apresentado assim a diferente forma de tratamento para negros, mulheres,obesos e homossexuais, por exemplo com resultados de buscas por filtros de familias que são resultados em grande
+parte relacionados a somente familias brancas sendo assim para que familias negras aparecem seja preciso de pesquisas especificas, ou comumente associando de forma negativa tais grupos étnicos
+com violência ou rebeldia,outra forma que é exemplificada é na forma de discriminação com relação a tratar mulheres negras comumente associadas a solteirismo,agressividade e até
+tratando suas relações inter-pessoais como de maior dificuldade de existência em relação as demais, resultados de buscas não somente relacionadas com mulheres mas no geral como na pesquisa feita com homens,gerando assim
+resultados de que homens negros estão mais relacionados com a solidão ou marginalização, o que acontece de forma distinta dos homens brancos que possuim um caso mínimo de aparições solitárias ao se pesquisar por "family white", o que deixa claro o preconceito enraizado na sociedade que no caso proposto do artigo é passado até para as máquinas, basicamente qualquer tipo de I.A
+antes mesmo de fazer sua função para qual é projetada, entra em ação o serviço de quem ou qual organização a programou para fazer alguma atividade específica ou seja basicamente aquilo foi já previamente 
+projetado para tal forma de funcionamento com exclusão ou diferenciação, mesmo após teses apresentadas com informações baseadas e verídicas para as grandes empresas de banco de imagens, as mesmas parecem não
+darem a devida prioridade que o assunto necessita, como forma de "resolução" uma inserção de buscas mais eficazes com filtros mais diretos foi acrescentada, como por exemplo pessoas "afro-descendentes", ou "familia negra", porém nada foi feito relacionado a programação dos algoritmos que levam a tais resultados tão irregulares na questão de igualdade racial. sendo assim tendo sistemas já automaticamente fazendo distinções para as quais já foi pré-programado tornando de tal forma a pauta de preconceito ou discriminação de maior
+dificuldade ainda para ser combatida. // reduzir para 15 linhas, terminas outros tópicos
+## 2. Fichamento Bibliográfico
+
+* Bancos digitais de imagens é a organização ou empresa responsável por gerenciamento e armazenagem de diversos tipos de imagens dos seres humanos.(p.100)
+* Algorítmos é a estrutura de ações e tratamentos a serem tomados para atingir um determinado bem em comum.(p.101)
+* hiper-ritualização forma de tentativa de reinterar a todo custo padrões de gênero que já são enraizados na nossa cultura cotidiana.(p.102)
+* 
+
+## 3. Fichamento de Citações
+* "Sendo assim, não somente
+os bancos de imagens tradicionais oferecem uma classificação de relevância que deve ser
+questionada, como as próprias escolhas de composição destas imagens parecem recorrer
+ainda a processos de hiper-ritualização de gênero."(p.102)
+* "O conceito de solidão da mulher negra é um desdobramento identificado na
+sociedade brasileira atual como resultado de um conjunto de elementos socialmente
+estruturados remanescentes do racismo moderno."(p.103)
+* "Em paralelo a esta representação social da sexualidade da mulher negra, está a imagem
+de associação da mulher negra ao estereótipo de instrumento servil e que persiste até os
+dias atuais."(p.104)
