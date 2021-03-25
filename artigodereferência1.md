@@ -4,7 +4,7 @@ Bruno, Guilherme; Brasileiro, Aluno de Lesandro Ponciano curso Sistemas da infor
 
 ## 1. Fichamento de Conteúdo
 
-O artigo traz levantamentos de dados baseados em grandes empresas de bancos de imagens, dados estes que nos mostram a alta diferença de forma de tratamento de determinados grupos e raças,
+O artigo traz levantamentos de dados baseados em grandes empresas de bancos de imagens, dados estes que nos mostram a alta diferença na forma de tratamento de determinados grupos e raças,
 ao se associar os mesmos com questões de maior dificuldade ou negatividade, como mostrado em pesquisas a respeito de mulheres no geral onde fica claro uma maior exposição de mulheres brancas,
 tendo que para que as de outras raças, orientação sexual ou até mesmo de padrão fisíco diferente são excluídas ou seja isoladas dos determinados resultados obtidos e que para as mesmas 
 surgirem é preciso de buscas especificas, outra forma que é exemplificada é na forma de discriminação com relação a tratar mulheres negras comumente associadas a solteirismo,agressividade e até
