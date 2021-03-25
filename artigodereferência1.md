@@ -13,14 +13,14 @@ resultados de que homens negros estão mais relacionados com a solidão ou margi
 
 ## 2. Fichamento Bibliográfico
 
-Sobre as formas de inteligência artificial e sua relação com a discriminalização, é levantado dados de grandes bancos de imagens para comprovação da teoria
-trazendo assim a diferente forma de tratamento para negros, mulheres,obesos e homossexuais, por exemplo com resultados de buscas por filtros de familias que são resultados em grande
-parte relacionados a somente familias brancas sendo assim para que familias negras aparecem seja preciso especificar o termo, ou comumente associando de forma negativa tais grupos étnicos
+Sobre as formas de inteligência artificial e sua relação com a discriminalização, é levantado assim informações concisas e aprofundadas a respeito das principais empresas responsáveis pelos dados de bancos de imagens disponíveis para comprovação desta teoria é 
+apresentado assim a diferente forma de tratamento para negros, mulheres,obesos e homossexuais, por exemplo com resultados de buscas por filtros de familias que são resultados em grande
+parte relacionados a somente familias brancas sendo assim para que familias negras aparecem seja preciso de pesquisas especificas, ou comumente associando de forma negativa tais grupos étnicos
 com violência ou rebeldia, o que deixa claro o preconceito enraizado na sociedade que no caso proposto do artigo é passado até para as máquinas, basicamente qualquer tipo de I.A
-antes mesmo de fazer sua função entra em ação o serviço de quem ou qual organização a programou para fazer alguma atividade específica ou seja basicamente aquilo foi já previamente 
-projetado para tal forma de exclusão ou diferenciação, mesmo após teses apresentadas com informações baseadas e verídicas as grandes empresas de banco de imagens, as mesmas parecem não
-darem a devida prioridade que o assunto necessita, sendo assim tendo sistemas já automaticamente fazendo distinções para as quais foi programado tornando assim a pauta de maior
-dificuldade para ser combatida.
+antes mesmo de fazer sua função para qual é projetada, entra em ação o serviço de quem ou qual organização a programou para fazer alguma atividade específica ou seja basicamente aquilo foi já previamente 
+projetado para tal forma de funcionamento com exclusão ou diferenciação, mesmo após teses apresentadas com informações baseadas e verídicas as grandes empresas de banco de imagens, as mesmas parecem não
+darem a devida prioridade que o assunto necessita, sendo assim tendo sistemas já automaticamente fazendo distinções para as quais foi programado tornando de tal forma a pauta de preconceito ou discriminação de maior
+dificuldade ainda para ser combatida.
 
 ## 3. Fichamento de Citações
 * "Sendo assim, não somente
