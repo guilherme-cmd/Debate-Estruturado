@@ -1,5 +1,4 @@
-# Exploring User Profiles Based on their Explainability
-Requirements in Interactive Systems
+# Exploring User Profiles Based on their Explainability Requirements in Interactive Systems
 
 Bruno, Guilherme; Brasileiro, Aluno de Lesandro Ponciano curso Sistemas da informação - Puc Minas Contagem, "Interação Humano-Computador", Março. 2021
 
