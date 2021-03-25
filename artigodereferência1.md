@@ -13,7 +13,7 @@ resultados de que homens negros estão mais relacionados com a solidão ou margi
 antes mesmo de fazer sua função para qual é projetada, entra em ação o serviço de quem ou qual organização a programou para fazer alguma atividade específica ou seja basicamente aquilo foi já previamente 
 projetado para tal forma de funcionamento com exclusão ou diferenciação, mesmo após teses apresentadas com informações baseadas e verídicas para as grandes empresas de banco de imagens, as mesmas parecem não
 darem a devida prioridade que o assunto necessita, como forma de "resolução" uma inserção de buscas mais eficazes com filtros mais diretos foi acrescentada, como por exemplo pessoas "afro-descendentes", ou "familia negra", porém nada foi feito relacionado a programação dos algoritmos que levam a tais resultados tão irregulares na questão de igualdade racial. sendo assim tendo sistemas já automaticamente fazendo distinções para as quais já foi pré-programado tornando de tal forma a pauta de preconceito ou discriminação de maior
-dificuldade ainda para ser combatida.
+dificuldade ainda para ser combatida. // reduzir para 15 linhas, terminas outros tópicos
 ## 2. Fichamento Bibliográfico
 
 * Bancos digitais de imagens é a organização ou empresa responsável por gerenciamento e armazenagem de diversos tipos de imagens dos seres humanos.(p.100)
