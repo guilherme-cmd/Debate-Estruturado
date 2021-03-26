@@ -3,17 +3,9 @@
 Bruno, Guilherme; Brasileiro, Aluno de Lesandro Ponciano curso Sistemas da informação - Puc Minas Contagem, "Interação Humano-Computador", Março. 2021
 
 ## 1. Fichamento de Conteúdo
+Traz consigo o artigo o levantamento da questão do requisito de explicabilidade de um determinado software, baseando-se assim teses em pesquisa realizadas com diferentes tipo de usuários tratando-se assim diferentes grupos dos mesmo desde os mais exigente a médios e mínimos em relação a este quesito, fator este que pode-se ser influenciado diretamente 
+por questões relacionadas a estudo ou classe social, o assunto levanta consigo também outra questão que é a conexão de informações compreendidas pelos dois lados tanto po "desenvolvedor" como "usuário", pois por mais que determinada informação seja clara e de fácil entendimento para o desenvolvedor que é alguém que lida com estas informações em seu cotidiano, a mesma pode não ser de tal facilidade para a compreensão do usuário.
 
-Sobre as formas de inteligência artificial e sua relação com a discriminalização, é levantado assim informações concisas e aprofundadas a respeito das principais empresas responsáveis pelos dados de bancos de imagens disponíveis para comprovação desta teoria é 
-apresentado assim a diferente forma de tratamento para negros, mulheres,obesos e homossexuais, por exemplo com resultados de buscas por filtros de familias que são resultados em grande
-parte relacionados a somente familias brancas sendo assim para que familias negras aparecem seja preciso de pesquisas especificas, ou comumente associando de forma negativa tais grupos étnicos
-com violência ou rebeldia,outra forma que é exemplificada é na forma de discriminação com relação a tratar mulheres negras comumente associadas a solteirismo,agressividade e até
-tratando suas relações inter-pessoais como de maior dificuldade de existência em relação as demais, resultados de buscas não somente relacionadas com mulheres mas no geral como na pesquisa feita com homens,gerando assim
-resultados de que homens negros estão mais relacionados com a solidão ou marginalização, o que acontece de forma distinta dos homens brancos que possuim um caso mínimo de aparições solitárias ao se pesquisar por "family white", o que deixa claro o preconceito enraizado na sociedade que no caso proposto do artigo é passado até para as máquinas, basicamente qualquer tipo de I.A
-antes mesmo de fazer sua função para qual é projetada, entra em ação o serviço de quem ou qual organização a programou para fazer alguma atividade específica ou seja basicamente aquilo foi já previamente 
-projetado para tal forma de funcionamento com exclusão ou diferenciação, mesmo após teses apresentadas com informações baseadas e verídicas para as grandes empresas de banco de imagens, as mesmas parecem não
-darem a devida prioridade que o assunto necessita, como forma de "resolução" uma inserção de buscas mais eficazes com filtros mais diretos foi acrescentada, como por exemplo pessoas "afro-descendentes", ou "familia negra", porém nada foi feito relacionado a programação dos algoritmos que levam a tais resultados tão irregulares na questão de igualdade racial. sendo assim tendo sistemas já automaticamente fazendo distinções para as quais já foi pré-programado tornando de tal forma a pauta de preconceito ou discriminação de maior
-dificuldade ainda para ser combatida. // reduzir para 15 linhas, terminas outros tópicos
 ## 2. Fichamento Bibliográfico
 
 * Bancos digitais de imagens é a organização ou empresa responsável por gerenciamento e armazenagem de diversos tipos de imagens dos seres humanos.(p.100)
