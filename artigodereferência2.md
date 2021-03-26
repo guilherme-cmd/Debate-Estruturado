@@ -8,9 +8,9 @@ por questões relacionadas a estudo ou classe social, o assunto levanta consigo 
 
 ## 2. Fichamento Bibliográfico
 
-* Bancos digitais de imagens é a organização ou empresa responsável por gerenciamento e armazenagem de diversos tipos de imagens dos seres humanos.(p.100)
-* Algorítmos é a estrutura de ações e tratamentos a serem tomados para atingir um determinado bem em comum.(p.101)
-* hiper-ritualização forma de tentativa de reinterar a todo custo padrões de gênero que já são enraizados na nossa cultura cotidiana.(p.102)
+* Requisito de explicabilidade é a facilidade de interpretação de determinado processo.(p.01)
+* Sistemas computacionais são os softwares desenvolvidos para utilização na máquina pelo usuário para algum determinado fim.(p.01)
+* Sistemas interativos são softwares que exigem determinadas interações do usuário para seguimento de processos.(p.02)
 * 
 
 ## 3. Fichamento de Citações
