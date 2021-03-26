@@ -14,13 +14,13 @@ por questões relacionadas a estudo ou classe social, o assunto levanta consigo 
 * 
 
 ## 3. Fichamento de Citações
-* "Sendo assim, não somente
-os bancos de imagens tradicionais oferecem uma classificação de relevância que deve ser
-questionada, como as próprias escolhas de composição destas imagens parecem recorrer
-ainda a processos de hiper-ritualização de gênero."(p.102)
-* "O conceito de solidão da mulher negra é um desdobramento identificado na
-sociedade brasileira atual como resultado de um conjunto de elementos socialmente
-estruturados remanescentes do racismo moderno."(p.103)
-* "Em paralelo a esta representação social da sexualidade da mulher negra, está a imagem
-de associação da mulher negra ao estereótipo de instrumento servil e que persiste até os
-dias atuais."(p.104)
+* "No entanto, enquanto a explicabilidade de software pode
+ser colocada como requisito legal ou uma demanda social,
+pouco se sabe sobre como as pessoas que são usuárias de
+sistemas interativos percebem esse requisito."(p.02)
+* "Idealmente, o software deve prover elementos para uma avaliação
+pública, por parte dos usuários, sem que esses precisem ter
+conhecimentos especializados de Engenharia de Software,
+algoritmos, processamento probabilístico, inteligência artificial, etc."(p.02)
+* "O desafio de se desenvolver software capaz de explicar suas
+saídas se torna maior quanto mais sofisticada for a computação realizada pelo software."(p.02)
