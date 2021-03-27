@@ -1,10 +1,10 @@
 # Exploring User Profiles Based on their Explainability Requirements in Interactive Systems
 
-Bruno, Guilherme; Brasileiro, Aluno de Lesandro Ponciano curso Sistemas da informação - Puc Minas Contagem, "Interação Humano-Computador", Março. 2021 //arrumar
+Publication:IHC '20: Proceedings of the 19th Brazilian Symposium on Human Factors in Computing SystemsOctober 2020 Article No.: 48 Pages 1–6 https://doi.org/10.1145/3424953.3426545 Authors: Henrique Louzada,Gabriel C Chaves,Lesandro Ponciano
 
 ## 1. Fichamento de Conteúdo
 Traz consigo o artigo o levantamento da questão do requisito de explicabilidade de um determinado software, baseando-se assim teses em pesquisa realizadas com diferentes tipo de usuários tratando-se assim diferentes tipos de pessoas desde os mais exigente a médios e mínimos em relação a este quesito, tendo como objetivo formar grupos de usuários de mesma igualdade de pensamento a respeito do tema principal, fator este que pode-se ser influenciado diretamente 
-por questões relacionadas a estudo ou classe social, o assunto levanta consigo também outra questão que é a conexão de informações compreendidas pelos dois lados tanto po "desenvolvedor" como "usuário", pois por mais que determinada informação seja clara e de fácil entendimento para o desenvolvedor que é alguém que lida com estas informações em seu cotidiano, a mesma pode não ser de tal facilidade para a compreensão do usuário que possui baixa familiaridade com softwares ou redes sociais.
+por questões relacionadas a estudo,classe social ou a determinada afinidade do usuário com redes sociais e sistemas no geral, o assunto levanta consigo também outra questão que é a conexão de informações compreendidas pelos dois lados tanto pelo "desenvolvedor" como "usuário", pois por mais que determinada informação seja clara e de fácil entendimento para o desenvolvedor que é alguém que lida com estas informações em seu cotidiano, a mesma pode não ser de tal facilidade para a compreensão do usuário que possui baixa familiaridade com softwares ou redes sociais.
 
 ## 2. Fichamento Bibliográfico
 
