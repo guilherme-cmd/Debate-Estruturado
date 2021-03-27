@@ -12,10 +12,10 @@ resultados de que homens negros estão mais relacionados com a solidão ou margi
 projetado para tal forma de funcionamento com exclusão ou diferenciação, mesmo após teses apresentadas com informações baseadas e verídicas para as grandes empresas de banco de imagens, as mesmas parecem não darem a devida prioridade que o assunto necessita, como forma de "resolução" uma inserção de buscas por filtros mais diretos foi acrescentada, como por exemplo pessoas "afro-descendentes", ou "familia negra", porém nada foi feito relacionado a programação dos algoritmos que levam a tais resultados tão irregulares na questão de igualdade racial.Sendo assim tendo sistemas já automaticamente fazendo distinções para as quais já foi pré-programado tornando de tal forma a pauta de preconceito ou discriminação de maior dificuldade ainda para ser combatida. 
 ## 2. Fichamento Bibliográfico
 
-* Bancos digitais de imagens é a organização ou empresa responsável por gerenciamento e armazenagem de diversos tipos de imagens dos seres humanos.(p.100)
-* Algorítmos é a estrutura de ações e tratamentos a serem tomados para atingir um determinado bem em comum.(p.101)
+* Bancos digitais de imagens é a organização ou empresa responsável por gerenciamento e armazenagem de diversos tipos de imagens dos seres humanos de modo geral.(p.100)
+* Algoritmos é a estrutura de ações e tratamentos a serem tomados para atingir um determinado bem em comum.(p.101)
 * hiper-ritualização forma de tentativa de reinterar a todo custo padrões de gênero que já são enraizados na nossa cultura cotidiana.(p.102)
-* 
+* Inteligência artificial é a tecnologia cujo qual tenta se aproximar ao máximo da capacidade de decisões e trabalho humano.(p.100)
 
 ## 3. Fichamento de Citações
 * "Sendo assim, não somente
