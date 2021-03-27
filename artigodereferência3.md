@@ -1,24 +1,19 @@
-# Exploring User Profiles Based on their Explainability Requirements in Interactive Systems
+# Inter-relacionamento entre assuntos abordados nos artigos 1 e 2
 
 Bruno, Guilherme; Brasileiro, Aluno de Lesandro Ponciano curso Sistemas da informação - Puc Minas Contagem, "Interação Humano-Computador", Março. 2021 //arrumar
 
 ## 1. Fichamento de Conteúdo
-Traz consigo o artigo o levantamento da questão do requisito de explicabilidade de um determinado software, baseando-se assim teses em pesquisa realizadas com diferentes tipo de usuários tratando-se assim diferentes tipos de pessoas desde os mais exigente a médios e mínimos em relação a este quesito, tendo como objetivo formar grupos de usuários de mesma igualdade de pensamento a respeito do tema principal, fator este que pode-se ser influenciado diretamente 
-por questões relacionadas a estudo ou classe social, o assunto levanta consigo também outra questão que é a conexão de informações compreendidas pelos dois lados tanto po "desenvolvedor" como "usuário", pois por mais que determinada informação seja clara e de fácil entendimento para o desenvolvedor que é alguém que lida com estas informações em seu cotidiano, a mesma pode não ser de tal facilidade para a compreensão do usuário que possui baixa familiaridade com softwares ou redes sociais.
 
-## 2. Fichamento Bibliográfico
+Em relação aos artigos temos 2 temas relacionados dentro de um mesmo nicho porém com aspectos diferentes um se objetivando para o preconceito e exclusão voltados em um determinado sistema e o outro no requisito de explicabilidade que um determinado software deve possuir de acordo com a necessidade do usuário e o como o mesmo vê esta forma de exemplificação para o seu próprio uso pessoal, mas onde elas se interligam ou tem efeito de se auto consumarem é na forma como estas grandes informações como resultados de um imenso banco de imagens são apresentados ao usuário, com fim de se exterminar hipóteses diferentes do que aquilo que foi pensado realmente para o software executar, obviamente não retirando assim a forma de tal maneira que determinadas buscas retornadas pelos imensos bancos apresenta-se de forma exclusória, porém para impedir o surgimento de tais contrariedades se dá a explicabilidade de maneira precoce ao usuário como ao invés de adicionar filtros especificos somente após a descoberta de tais práticas negativas, um sistema que especifique buscas singulares apresentando dados prévios ao usuário do tipo de retorno que o mesmo irá receber e de um modo geral para pesquisas de ampla abordagem, o esclarecimento de como tal busca ocorrerá e quais os critérios que a mesma utilizará para efetivar o processo.
 
-* Requisito de explicabilidade é a facilidade de interpretação de determinado processo.(p.01)
-* Sistemas computacionais são os softwares desenvolvidos para utilização na máquina pelo usuário para algum determinado fim.(p.01)
-* Sistemas interativos são softwares que exigem determinadas interações do usuário para seguimento de processos.(p.02)
-## 3. Fichamento de Citações
-* "No entanto, enquanto a explicabilidade de software pode
-ser colocada como requisito legal ou uma demanda social,
-pouco se sabe sobre como as pessoas que são usuárias de
-sistemas interativos percebem esse requisito."(p.02)
-* "Idealmente, o software deve prover elementos para uma avaliação
-pública, por parte dos usuários, sem que esses precisem ter
-conhecimentos especializados de Engenharia de Software,
-algoritmos, processamento probabilístico, inteligência artificial, etc."(p.02)
-* "O desafio de se desenvolver software capaz de explicar suas
-saídas se torna maior quanto mais sofisticada for a computação realizada pelo software."(p.02)
+## 2. Questões levantadas após análise
+
+O porquê da mulher negra mãe solteira ser colocada em classes relacionadas a solidão e selvageria e não o homem independentemente de sua raça que abandona a familia e é tratado como um caso sem exclusão para o banco de imagens ?
+
+O requisito de explicabilidade é algo importante, porém na maioria de suas vezes usuários tendem a tomar ações sem uma leitura prévia ou não se importando com o que é apresentado,somente visando o resultado final sendo assim será mesmo que o usuário necessita de uma maior concentração de explicações ?
+
+A explicabilidade seria mais eficaz quando se pausa o processo do usuário com um alerta intermitente ?
+
+O racismo ou a exclusão é inserido em inteligências artificias com intuito de gerar supremacias raciais ou mesmo de manter enraizamentos de antigas más culturas ?
+
+
