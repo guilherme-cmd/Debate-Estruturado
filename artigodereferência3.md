@@ -1,6 +1,6 @@
-# Inter-relacionamento entre assuntos abordados nos artigos 1 e 2
+# A explicabilidade de um software e o entendimento por parte do usuário 
 
-Bruno, Guilherme; Brasileiro, Aluno de Lesandro Ponciano curso Sistemas da informação - Puc Minas Contagem, "Interação Humano-Computador", Março. 2021 //arrumar
+Curso Sistemas da informação - Puc Minas Contagem, "Interação Humano-Computador", educador : Lesandro Ponciano, Março. 2021 
 
 ## 1. Fichamento de Conteúdo
 
@@ -19,5 +19,7 @@ O requisito de explicabilidade é algo importante, porém na maioria de suas vez
 A explicabilidade seria mais eficaz quando se pausa o processo do usuário com um alerta intermitente ?
 
 O racismo ou a exclusão é inserido em inteligências artificias com intuito de gerar supremacias raciais ou mesmo de manter enraizamentos de antigas más culturas ?
+
+Autor : Guilherme Bruno Rodrigues Silva
 
 
