@@ -1,6 +1,6 @@
 # Exploring User Profiles Based on their Explainability Requirements in Interactive Systems
 
-Bruno, Guilherme; Brasileiro, Aluno de Lesandro Ponciano curso Sistemas da informação - Puc Minas Contagem, "Interação Humano-Computador", Março. 2021
+Bruno, Guilherme; Brasileiro, Aluno de Lesandro Ponciano curso Sistemas da informação - Puc Minas Contagem, "Interação Humano-Computador", Março. 2021 //arrumar
 
 ## 1. Fichamento de Conteúdo
 Traz consigo o artigo o levantamento da questão do requisito de explicabilidade de um determinado software, baseando-se assim teses em pesquisa realizadas com diferentes tipo de usuários tratando-se assim diferentes tipos de pessoas desde os mais exigente a médios e mínimos em relação a este quesito, tendo como objetivo formar grupos de usuários de mesma igualdade de pensamento a respeito do tema principal, fator este que pode-se ser influenciado diretamente 
