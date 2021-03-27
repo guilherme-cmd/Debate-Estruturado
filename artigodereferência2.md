@@ -10,7 +10,7 @@ por questões relacionadas a estudo,classe social ou a determinada afinidade do 
 
 * Requisito de explicabilidade é a facilidade de interpretação de determinado processo.(p.01)
 * Sistemas computacionais são os softwares desenvolvidos para utilização na máquina pelo usuário para algum determinado fim.(p.01)
-* Sistemas interativos são softwares que exigem determinadas interações do usuário para seguimento de processos.(p.02)
+* Sistemas interativos são softwares que exigem determinadas interações do usuário para seguimento de seus processos.(p.02)
 ## 3. Fichamento de Citações
 * "No entanto, enquanto a explicabilidade de software pode
 ser colocada como requisito legal ou uma demanda social,
